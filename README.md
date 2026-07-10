@@ -93,4 +93,4 @@ Make sure you have the [Flutter SDK](https://docs.flutter.dev/get-started/instal
 
 ---
 
-*Developed with ❤️ as part of the CodeAlpha Internship Program.*
+*Developed with ❤️ for the CodeAlpha Flutter Internship.*
